@@ -8,12 +8,4 @@ declare(strict_types=1);
  * @contact  group@hyperf.io
  * @license  https://github.com/hyperf/hyperf/blob/master/LICENSE
  */
-namespace App;
-
-class Foo
-{
-    public function foo()
-    {
-        return 1;
-    }
-}
+return [];
